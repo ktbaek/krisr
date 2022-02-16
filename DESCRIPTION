@@ -1,0 +1,11 @@
+Package: krisr
+Version: 0.1
+Date: 2021-04-30
+Title: Personal R functions
+Description: Useful functions often used by Kristoffer T. Bæk.
+Author: Kristoffer T Bæk <krisb@kemi.dtu.dk>
+Imports:
+    stringr,
+    readr,
+    dplyr
+RoxygenNote: 7.1.1
